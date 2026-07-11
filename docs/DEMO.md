@@ -188,6 +188,7 @@ Urutan direkomendasikan dari yang paling bersih ke yang paling konfliktual.
 4. Pertanyaan 4 — versi DataSync Pro      (VERIFIED + confidence rendah)
    └─ "Verified bukan berarti tidak ada masalah di dokumen lain"
 
+
 5. Pertanyaan 6 — jumlah karyawan         (3 angka berbeda)
    └─ "Confidence 0% bukan berarti jawaban salah"
 
